@@ -1,0 +1,55 @@
+*{
+    font-family: 'Cookie', cursive;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body{
+    background-color: bisque;
+}
+
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+h1{
+    text-align: center;
+    padding: 1rem;
+    color: #187498;
+}
+
+p{
+    margin-bottom: 0.25rem;
+    color: #187498;
+}
+
+input{
+    font-size: 1rem;
+}
+
+#calculate{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#calculate button{
+    background-color: #1a86b1;
+    color: #f8a150;
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;
+    border: none;
+    border-radius: 5%;
+}
+
+#calculate button:hover{
+    background-color: #0ca4e0;
+}
+
+#result{
+    font-size: 1.7rem;
+    color: #b49b0c;
+    text-align: center;
+    margin-top: 2rem;
+    padding: 1rem;
+}
